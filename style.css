@@ -113,6 +113,13 @@ header {
   color: #e1e1e6;
 }
 
+.card ul li strong strong{
+  font-weight: 900;
+  font-size: 15px;
+  line-height: 125%;
+  color: #e1e1e6;
+}
+
 .card h2:hover,
 .card ul li strong:hover,
 .card ul li img:hover {
